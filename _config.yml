@@ -1,3 +1,5 @@
+markdown: GFM
+
 # exclude files from build
 exclude:
   - README.md
