@@ -119,15 +119,15 @@ Construction of new dwellings and elevation of existing dwellings, including man
 
 1. The Floodplain Manager communicates to the applicant in writing:
 
-    1. Minimum foundation elevation (DFE) along with flood venting, crawlspace fill, lowest mechanical, and flood proof materials requirements.
+   1. Minimum foundation elevation (DFE) along with flood venting, crawlspace fill, lowest mechanical, and flood proof materials requirements.
 
-    1. Submitted building plans must reflect the requirements.
+   1. Submitted building plans must reflect the requirements.
 
-    1. It is the applicant's responsibility to contact the Elevation Certificate provider to verify the foundation elevation prior to constructing on the foundation.
+   1. It is the applicant's responsibility to contact the Elevation Certificate provider to verify the foundation elevation prior to constructing on the foundation.
 
-    1. It is the applicant's responsibility to ensure the requirements are met during construction; and failure to meet the requirements will result in the Certificate of Occupancy not being issued until deficiencies are corrected.
+   1. It is the applicant's responsibility to ensure the requirements are met during construction; and failure to meet the requirements will result in the Certificate of Occupancy not being issued until deficiencies are corrected.
 
-    > In the event the building plans do not reflect the requirements, the Floodplain Manager notifies the applicant of the deficiencies in writing; requiring revised plans be submitted prior to building plan review and issuing of permits. STOP!
+   > In the event the building plans do not reflect the requirements, the Floodplain Manager notifies the applicant of the deficiencies in writing; requiring revised plans be submitted prior to building plan review and issuing of permits. STOP!
 
 1. When the New Home Packet (new dwelling) or building permit (elevation of existing dwelling), is submitted the Floodplain Manager reviews the building plans to ensure the plans reflect the requirements.
 
@@ -141,17 +141,17 @@ Construction of new dwellings and elevation of existing dwellings, including man
 
 1. The Floodplain Manager reviews the Finished Construction Elevation Certificate to verify:
 
-    1. The first-floor elevation is at or above DFE.
+   1. The first-floor elevation is at or above DFE.
 
-    1. The minimum area of flood venting.
+   1. The minimum area of flood venting.
 
-    1. The top of bottom floor (crawlspace) is not lower than lowest adjacent grade.
+   1. The top of bottom floor (crawlspace) is not lower than lowest adjacent grade.
 
-    1. The lowest mechanical is at or above DFE.
+   1. The lowest mechanical is at or above DFE.
 
-    1. The use of floodproof materials below DFE. The Floodplain Manager may make an on-site inspection if they cannot make a determination based on the Elevation Certificate photos.
+   1. The use of floodproof materials below DFE. The Floodplain Manager may make an on-site inspection if they cannot make a determination based on the Elevation Certificate photos.
 
-    > In the event the dwelling does not meet one or more requirements, the Floodplain Manager notifies the applicant of the deficiencies in writing; requiring the deficiencies to be corrected and an updated Finished Construction Elevation Certificate provided. STOP!
+   > In the event the dwelling does not meet one or more requirements, the Floodplain Manager notifies the applicant of the deficiencies in writing; requiring the deficiencies to be corrected and an updated Finished Construction Elevation Certificate provided. STOP!
 
 1. The Floodplain Manager completes Section G on the Finished Construction Elevation Certificate and provides a copy of the Finished Construction Elevation Certificate with completed Section G to the applicant.
 
