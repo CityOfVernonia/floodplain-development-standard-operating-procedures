@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /
+---
 # Floodplain Development Standard Operating Procedures
 
 Updated December 28, 2023
@@ -8,7 +12,7 @@ Updated December 28, 2023
 
 [Definitions](#definitions)
 
-[Residential Development](#residental-development)
+[Residential Development](#residential-development)
 
 [Non-Residential Development](#non-residential-development)
 
@@ -20,7 +24,7 @@ Updated December 28, 2023
 
 [Fence Permits](#fence-permits)
 
-[Substantial Improvement](#substantial-imporvement)
+[Substantial Improvement](#substantial-improvement)
 
 [Substantial Damage](#substantial-damage)
 
@@ -30,7 +34,7 @@ Updated December 28, 2023
 
 [Elevation Certificates of Record](#elevation-certificates-of-record)
 
-[Violations](#violation)
+[Violations](#violations)
 
 ## About and Usage
 
@@ -45,7 +49,7 @@ Do not provide this document to the public when relating information about flood
 
 ## Definitions
 
-**Applicant** - The person applying for a permit, i.e., owner, owner’s representative, contractor, etc.
+**Applicant** - The person applying for a permit, i.e., owner, owner's representative, contractor, etc.
 
 **Base Flood Elevation (BFE)** - The elevation of surface water resulting from a flood that has a 1% chance of equaling or exceeding that level in any given year.
 
@@ -85,7 +89,7 @@ Do not provide this document to the public when relating information about flood
 
 - **Zone X Shaded[^shadedx]** - The area that will be inundated by the flood event having a 0.2% chance of being equaled or exceeded in any given year. [[1]](https://www.fema.gov/glossary/flood-zones)
 
-**Floodplain Manager** - The person responsible for reviewing and approving Floodplain Development Permits (or that person’s designee).
+**Floodplain Manager** - The person responsible for reviewing and approving Floodplain Development Permits (or that person's designee).
 
 **New Home Packet** - Collection of forms, documents, plans, etc., submitted when constructing a new dwelling.
 
@@ -115,21 +119,21 @@ Construction of new dwellings and elevation of existing dwellings, including man
 
 1. The Floodplain Manager communicates to the applicant in writing:
 
-   1. Minimum foundation elevation (DFE) along with flood venting, crawlspace fill, lowest mechanical, and flood proof materials requirements.
+    1. Minimum foundation elevation (DFE) along with flood venting, crawlspace fill, lowest mechanical, and flood proof materials requirements.
 
-   1. Submitted building plans must reflect the requirements.
+    1. Submitted building plans must reflect the requirements.
 
-   1. It is the applicant's responsibility to contact the Elevation Certificate provider to verify the foundation elevation prior to constructing on the foundation.
+    1. It is the applicant's responsibility to contact the Elevation Certificate provider to verify the foundation elevation prior to constructing on the foundation.
 
-   1. It is the applicant’s responsibility to ensure the requirements are met during construction; and failure to meet the requirements will result in the Certificate of Occupancy not being issued until deficiencies are corrected.
+    1. It is the applicant's responsibility to ensure the requirements are met during construction; and failure to meet the requirements will result in the Certificate of Occupancy not being issued until deficiencies are corrected.
 
-      > In the event the building plans do not reflect the requirements, the Floodplain Manager notifies the applicant of the deficiencies in writing; requiring revised plans be submitted prior to building plan review and issuing of permits. STOP!
+    > In the event the building plans do not reflect the requirements, the Floodplain Manager notifies the applicant of the deficiencies in writing; requiring revised plans be submitted prior to building plan review and issuing of permits. STOP!
 
 1. When the New Home Packet (new dwelling) or building permit (elevation of existing dwelling), is submitted the Floodplain Manager reviews the building plans to ensure the plans reflect the requirements.
 
 1. For new dwellings only: The Engineer reviews proposed grading, roadway, water, wastewater, and stormwater plans to ensure those activities do not pose a risk of increased flood damage; and minimize or eliminate infiltration into the water and wastewater systems during flood events.
 
-   > In the event the proposed activities may pose a risk of increased flood damage or cause excessive infiltration into the water and wastewater systems during flood events, the City Engineer notifies the applicant in writing; requiring revised plans and/or additional documentation for review prior to approving the Engineering Permit and issuing permits. STOP!
+> In the event the proposed activities may pose a risk of increased flood damage or cause excessive infiltration into the water and wastewater systems during flood events, the City Engineer notifies the applicant in writing; requiring revised plans and/or additional documentation for review prior to approving the Engineering Permit and issuing permits. STOP!
 
 1. Upon completion of the foundation, the applicant contacts the Elevation Certificate provider to verify the foundation elevation.
 
@@ -137,17 +141,17 @@ Construction of new dwellings and elevation of existing dwellings, including man
 
 1. The Floodplain Manager reviews the Finished Construction Elevation Certificate to verify:
 
-   1. The first-floor elevation is at or above DFE.
+    1. The first-floor elevation is at or above DFE.
 
-   1. The minimum area of flood venting.
+    1. The minimum area of flood venting.
 
-   1. The top of bottom floor (crawlspace) is not lower than lowest adjacent grade.
+    1. The top of bottom floor (crawlspace) is not lower than lowest adjacent grade.
 
-   1. The lowest mechanical is at or above DFE.
+    1. The lowest mechanical is at or above DFE.
 
-   1. The use of floodproof materials below DFE. The Floodplain Manager may make an on-site inspection if they cannot make a determination based on the Elevation Certificate photos.
+    1. The use of floodproof materials below DFE. The Floodplain Manager may make an on-site inspection if they cannot make a determination based on the Elevation Certificate photos.
 
-      > In the event the dwelling does not meet one or more requirements, the Floodplain Manager notifies the applicant of the deficiencies in writing; requiring the deficiencies to be corrected and an updated Finished Construction Elevation Certificate provided. STOP!
+    > In the event the dwelling does not meet one or more requirements, the Floodplain Manager notifies the applicant of the deficiencies in writing; requiring the deficiencies to be corrected and an updated Finished Construction Elevation Certificate provided. STOP!
 
 1. The Floodplain Manager completes Section G on the Finished Construction Elevation Certificate and provides a copy of the Finished Construction Elevation Certificate with completed Section G to the applicant.
 

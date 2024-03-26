@@ -1,0 +1,13 @@
+# permalinks
+permalink: pretty
+
+# markdown processing
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: false
+
+# exclude files from build
+exclude:
+  - README.md
