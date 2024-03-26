@@ -1,4 +1,7 @@
-markdown: GFM
+markdown: kramdown
+
+kramdown:
+  input: GFM
 
 # exclude files from build
 exclude:
