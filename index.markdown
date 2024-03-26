@@ -1,7 +1,3 @@
----
-layout: default
-permalink: /
----
 # Floodplain Development Standard Operating Procedures
 
 Updated December 28, 2023
